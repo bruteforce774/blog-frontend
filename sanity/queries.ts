@@ -10,3 +10,4 @@ export const postsQuery = groq`
     "author": author->name,
     "category": category->title,
   }
+`
